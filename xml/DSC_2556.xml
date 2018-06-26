@@ -1,0 +1,26 @@
+<annotation>
+	<folder>img</folder>
+	<filename>DSC_2556.JPG</filename>
+	<path>E:\Train\img\DSC_2556.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3936</width>
+		<height>2624</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>good</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1730</xmin>
+			<ymin>586</ymin>
+			<xmax>2113</xmax>
+			<ymax>920</ymax>
+		</bndbox>
+	</object>
+</annotation>
